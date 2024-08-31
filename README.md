@@ -39,9 +39,9 @@ To use this To-Do List application:
 4. Click the "Delete" button to remove a task from the list.
 
 ## Author
-Biswabhusan Sahoo  
-pesuing: BCA
-IG-https: //www.instagram.com/ll.b_i_s_w_a.ll?igsh=MW9yY2NqaWh2am9kNA==
-Linkedin: https://www.linkedin.com/in/biswabhusan-sahoo-22b704292/?trk=opento_sprofile_topcard
+### Biswabhusan Sahoo  
+pesuing: BCA.
+IG-https: //www.instagram.com/ll.b_i_s_w_a.ll?igsh=MW9yY2NqaWh2am9kNA== .
+Linkedin: https://www.linkedin.com/in/biswabhusan-sahoo-22b704292/?trk=opento_sprofile_topcard .
 ## License
 This project is open source and available under the [MIT License](LICENSE).
