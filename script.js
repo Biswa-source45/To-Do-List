@@ -16,6 +16,7 @@ function addTask() {
             </div>
         `;
         taskList.appendChild(li);
+        taskInput.value='';
         
     }
     else if(taskText=='') {
