@@ -40,8 +40,8 @@ To use this To-Do List application:
 
 ## Author
 ### Biswabhusan Sahoo  
-pesuing: BCA.
-IG-https: //www.instagram.com/ll.b_i_s_w_a.ll?igsh=MW9yY2NqaWh2am9kNA== .
-Linkedin: https://www.linkedin.com/in/biswabhusan-sahoo-22b704292/?trk=opento_sprofile_topcard .
+#### pesuing: BCA.
+#### IG-https: //www.instagram.com/ll.b_i_s_w_a.ll?igsh=MW9yY2NqaWh2am9kNA== .
+#### Linkedin: https://www.linkedin.com/in/biswabhusan-sahoo-22b704292/?trk=opento_sprofile_topcard .
 ## License
 This project is open source and available under the [MIT License](LICENSE).
